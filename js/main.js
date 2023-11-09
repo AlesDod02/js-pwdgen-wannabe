@@ -23,3 +23,6 @@ console.log(Yourpassword);
 // lo sposto in html
 
 document.getElementById("user_password").innerHTML = password;
+
+// ricarica pagina script
+
